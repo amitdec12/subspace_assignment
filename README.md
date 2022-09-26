@@ -2,4 +2,4 @@
 
 Assignmnet made for internship opportunity at Subspace.
 
-![Design]([http://url/to/img.png](https://bit.ly/subspace_assignment))
+![Design](https://github.com/amitdec12/subspace_assignment/blob/main/screenshot.png)
